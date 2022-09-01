@@ -1,0 +1,31 @@
+/* 아래에 CSS를 작성해주세요. */
+.title{
+  width:900px;
+  text-align: center;
+}
+.subtitle{
+  display:block;
+  font-size:10px;
+}
+.body{
+  width:900px;
+ 
+}
+.card1{
+  width:300px; 
+  display:inline-block;
+}
+.card2{
+  width:300px; 
+  display:inline-block;
+}
+img{
+  width:300px;
+}
+.carditem{
+  font-size:10px;
+  
+}
+.content{
+  display: block;
+}
